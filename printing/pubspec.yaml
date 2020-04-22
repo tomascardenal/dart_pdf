@@ -15,7 +15,8 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  pdf: ^1.6.0
+  pdf: 
+    path: ../pdf
   plugin_platform_interface: ^1.0.2
   meta: ^1.1.5
   image: ^2.1.4
